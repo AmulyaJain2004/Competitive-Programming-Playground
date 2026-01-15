@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; int main () {    int n;    cin >> n;    while (n--) {        string str;        cin >> str;        string ans = "";        if (str.size() > 10) {            ans += str[0] + to_string(str.size() - 2) + str[str.size() - 1];            cout << ans << endl;        }        else {            cout << str << endl;        }    }    return 0;}
