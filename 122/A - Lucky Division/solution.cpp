@@ -14,11 +14,7 @@ bool solve(int n, int d) {
 int main() {
     int n;
     cin >> n;
-    if (n % 4 == 0) {
-        cout << "YES
-";
-    }
-    else if (solve(n, 7) || solve(n, 4)){
+    if (solve(n, 7) || solve(n, 4)){
         cout << "YES
 ";
     }
