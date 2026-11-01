@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
-- [brute force](#brute-force) (2)
-- [math](#math) (1)
+- [brute force](#brute-force) (3)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
 
 ---
@@ -29,6 +29,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 
@@ -36,6 +37,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 
 ### number theory
