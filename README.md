@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 4 |
+| 7 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (3)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
@@ -26,6 +26,7 @@
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 | 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
+| 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.cpp) |
 
 ### brute force
 
