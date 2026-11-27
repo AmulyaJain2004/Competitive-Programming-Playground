@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 4 |
+| 11 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (6)
+- [Uncategorized](#uncategorized) (8)
 - [brute force](#brute-force) (3)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
@@ -29,6 +29,8 @@
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 | 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
 | 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.cpp) |
+| 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.cpp) |
+| 2292B | [Grapefruit Juice](https://codeforces.com/contest/2292/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AmulyaJain2004/Competitive-Programming-Playground/blob/HEAD/2292/B%20-%20Grapefruit%20Juice/solution.cpp) |
 
 ### brute force
 
